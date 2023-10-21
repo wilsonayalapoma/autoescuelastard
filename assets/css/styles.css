@@ -440,7 +440,7 @@ a:focus {
 
 /* ======= About Section ======= */
 .about-section {
-  padding-top: 90px;
+  padding-top: 10px;
 }
 
 .about-section .section-title {
@@ -472,7 +472,7 @@ a:focus {
 }
 
 .about-section .items-wrapper .item-inner {
-  padding: 30px;
+  padding: 10px;
 }
 
 .about-section .items-wrapper .item-title {
@@ -537,7 +537,7 @@ a:focus {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   position: relative;
-  padding: 15px;
+  padding: 10px;
 }
 
 .testimonials-inner .quote:before {
@@ -559,7 +559,7 @@ a:focus {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding-top: 90px;
+  padding-top: 10px;
   padding-bottom: 90px;
 }
 
@@ -574,7 +574,7 @@ a:focus {
 .testimonials-section .item {
   position: relative;
   max-width: 800px;
-  padding: 30px;
+  padding: 10px;
 }
 
 .testimonials-section .item:last-child {
@@ -650,9 +650,9 @@ a:focus {
   color: rgba(0, 0, 0, 0.6);
 }
 
-/* ======= Features Section ======= */
+/* ======= cursos Section ======= */
 .features-section {
-  padding-top: 90px;
+  padding-top: 10px;
   padding-bottom: 90px;
 }
 
@@ -711,9 +711,9 @@ a:focus {
   font-weight: bold;
 }
 
-/* ======= Pricing Section ======= */
+/* ======= Precios Section ======= */
 .pricing-section {
-  padding-top: 90px;
+  padding-top: 10px;
   padding-bottom: 90px;
 }
 
@@ -807,10 +807,10 @@ a:focus {
   color: #fff;
 }
 
-/* ======= Team Section ======= */
+/* ======= Equipo Section ======= */
 .team-section {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background: #a9bfce;
 }
 
