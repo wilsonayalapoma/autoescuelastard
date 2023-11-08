@@ -964,8 +964,8 @@ a:focus {
 
 /* ======= Contact Section ======= */
 .contact-section {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background: #494d55 url("../images/map.png") no-repeat center center;
   color: #fff;
 }
