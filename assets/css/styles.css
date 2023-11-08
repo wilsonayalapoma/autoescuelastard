@@ -610,8 +610,8 @@ a:focus {
 .testimonials-section .item .profile-image {
   display: inline-block;
   margin: 0 auto;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
 }
 
 .testimonials-section .item .quote {
